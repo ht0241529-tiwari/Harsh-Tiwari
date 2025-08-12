@@ -1,0 +1,30 @@
+{
+	"name": "c-c---compiler",
+	"displayName": "c--c++ compiler",
+	"description": "",
+	"version": "1.2.0",
+	"publisher": "jhenilparihar",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "c",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "c++",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1743425940254,
+		"size": 67443
+	}
+}
